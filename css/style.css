@@ -463,8 +463,10 @@ progress {
 
 .img-fluid {
   max-width: 100%;
-  height: auto; }
-
+  height: auto; 
+  padding-bottom: 10px;
+  padding-top: 10px; }
+  
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #fff;
@@ -8633,7 +8635,7 @@ textarea.form-control-lg {
   position: relative; }
 
 .logo {
-  font-size: 20px;
+  font-size: 18px;
   color: #fff;
   font-weight: 700;
   top: 6px;
